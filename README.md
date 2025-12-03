@@ -102,12 +102,10 @@ record published in DNS for the domain.</p>
 </tr>
 <tr>
 <td> <input value="Test SPF Record" type="submit"></td>
-<td align="right"> <input value="Reset" type="reset"></td>
 </tr>
 </tbody>
 </table>
 </form>
-
 <p>To check an incoming mail request, fill out IP address from which
 the mail was received and the Mail From address. If you want to test a
 record that's not published, paste it into the SPF record field. If you
@@ -117,6 +115,4 @@ don't know what to put in for HELO, just leave it blank.<br>
 the request is submitted. The Python interpreter may need to be fired
 up and DNS queries have to be answered. Please be patient...</p>
 </div>
-
-<img src:https://github.com/users/Cyberxpert1/achievements/pull-shark img>
 <li> 💢Devloped By YashG ⁜⁜ </li>
