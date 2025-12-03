@@ -119,4 +119,4 @@ up and DNS queries have to be answered. Please be patient...</p>
 </div>
 
 <img src:https://github.com/users/Cyberxpert1/achievements/pull-shark img>
-<li> 💢Hackers Inside ⁜*※EthicsBytes※*⁜ </li>
+<li> 💢Devloped By YashG ⁜⁜ </li>
